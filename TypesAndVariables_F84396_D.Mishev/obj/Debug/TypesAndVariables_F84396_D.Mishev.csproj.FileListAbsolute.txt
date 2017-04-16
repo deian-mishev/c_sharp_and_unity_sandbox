@@ -1,0 +1,6 @@
+c:\users\dsmis\documents\visual studio 2015\Projects\TypesAndVariables_F84396_D.Mishev\TypesAndVariables_F84396_D.Mishev\bin\Debug\TypesAndVariables_F84396_D.Mishev.exe.config
+c:\users\dsmis\documents\visual studio 2015\Projects\TypesAndVariables_F84396_D.Mishev\TypesAndVariables_F84396_D.Mishev\bin\Debug\TypesAndVariables_F84396_D.Mishev.exe
+c:\users\dsmis\documents\visual studio 2015\Projects\TypesAndVariables_F84396_D.Mishev\TypesAndVariables_F84396_D.Mishev\bin\Debug\TypesAndVariables_F84396_D.Mishev.pdb
+c:\users\dsmis\documents\visual studio 2015\Projects\TypesAndVariables_F84396_D.Mishev\TypesAndVariables_F84396_D.Mishev\obj\Debug\TypesAndVariables_F84396_D.Mishev.csprojResolveAssemblyReference.cache
+c:\users\dsmis\documents\visual studio 2015\Projects\TypesAndVariables_F84396_D.Mishev\TypesAndVariables_F84396_D.Mishev\obj\Debug\TypesAndVariables_F84396_D.Mishev.exe
+c:\users\dsmis\documents\visual studio 2015\Projects\TypesAndVariables_F84396_D.Mishev\TypesAndVariables_F84396_D.Mishev\obj\Debug\TypesAndVariables_F84396_D.Mishev.pdb

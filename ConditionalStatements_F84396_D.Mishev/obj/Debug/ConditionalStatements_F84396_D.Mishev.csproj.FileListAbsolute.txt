@@ -1,0 +1,6 @@
+c:\users\dsmis\documents\visual studio 2015\Projects\TypesAndVariables_F84396_D.Mishev\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\dsmis\documents\visual studio 2015\Projects\TypesAndVariables_F84396_D.Mishev\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\dsmis\documents\visual studio 2015\Projects\TypesAndVariables_F84396_D.Mishev\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\dsmis\documents\visual studio 2015\Projects\TypesAndVariables_F84396_D.Mishev\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\dsmis\documents\visual studio 2015\Projects\TypesAndVariables_F84396_D.Mishev\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\dsmis\documents\visual studio 2015\Projects\TypesAndVariables_F84396_D.Mishev\ConsoleApplication1\obj\Debug\ConditionalStatements_F84396_D.Mishev.csprojResolveAssemblyReference.cache
